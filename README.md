@@ -1,9 +1,3 @@
----
-tags: [ReadMe]
-title: Tarea 1 Base de Datos
-created: '2020-07-02T05:24:30.553Z'
-modified: '2020-07-02T05:27:53.370Z'
----
 
 # Tarea 1 Base de Datos
 
